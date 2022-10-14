@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-void codeToTest();
+string codeToTest();
 
 string codeToTest(){
   return "Hello World!";
