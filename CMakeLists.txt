@@ -4,6 +4,7 @@ project(my_project)
 # GoogleTest requires at least C++14
 set(CMAKE_CXX_STANDARD 14)
 
+include(GoogleTest)
 include(FetchContent)
 FetchContent_Declare(
   googletest
@@ -24,7 +25,7 @@ target_link_libraries(
   GTest::gtest_main
 )
 
-include(GoogleTest)
+
 gtest_discover_tests(main_test)
 
 
