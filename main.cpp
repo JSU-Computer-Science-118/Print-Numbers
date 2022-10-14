@@ -1,10 +1,11 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 void codeToTest();
 
-void codeToTest(){
-  cout<<"Hello World!";
+string codeToTest(){
+  return "Hello World!";
   
   
 }
