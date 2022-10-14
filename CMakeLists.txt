@@ -12,3 +12,17 @@ FetchContent_Declare(
 )
 
 FetchContent_MakeAvailable(googletest)
+
+enable_testing()
+
+add_executable(
+  main
+  main_test.cc
+)
+target_link_libraries(
+  main
+  GTest::gtest_main
+)
+
+include(GoogleTest)
+gtest_discover_tests(main_test)
