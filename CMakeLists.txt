@@ -18,7 +18,7 @@ enable_testing()
 
 add_executable(
   number_printer_test
-  number_printer_test.cc
+  number_printer_test.cpp
 )
 target_link_libraries(
   number_printer_test
