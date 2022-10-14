@@ -1,5 +1,5 @@
-#ifndef PRINT_TEST_H_
-#define PRINT_TEST_H_
+#ifndef NUMBER_PRINTER_H_
+#define NUMBER_PRINTER_H_
 
 using namespace std;
 
