@@ -17,16 +17,16 @@ FetchContent_MakeAvailable(googletest)
 enable_testing()
 
 add_executable(
-  main_test
-  main_test.cc
+  number_printer_test
+  number_printer_test.cc
 )
 target_link_libraries(
-  main_test
+  number_printer_test
   GTest::gtest_main
 )
 
 
-gtest_discover_tests(main_test)
+gtest_discover_tests(number_printer_test)
 
 
 
