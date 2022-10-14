@@ -8,7 +8,12 @@
 //   // Expect equality.
 //   EXPECT_EQ(7 * 6, 42);
 // }
-
-TEST(HelloTest, printsHello) {
-  EXPECT_EQ(codeToTest(), "Hello JSU");
+namespace {
+  
+  TEST(HelloTest, printsHello) {
+    EXPECT_EQ(codeToTest(), "Hello JSU");
+  }
+  
+  
 }
+
