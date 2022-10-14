@@ -1,9 +1,13 @@
 #include <iostream>
 using namespace std;
 
-
+void codeToTest(){
+  cout<<"Hello World!";
+  
+  
+}
 
 int main() {
-  cout<<"Hello World!";
+  codeToTest();
   return 0;
 }
