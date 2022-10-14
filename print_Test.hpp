@@ -5,7 +5,7 @@ using namespace std;
 
 string codeToTest(){
   // write code here
-  return "Hello World";
+  return "Hello JSU";
   
   
   
