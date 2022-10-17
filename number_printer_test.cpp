@@ -11,7 +11,7 @@
 namespace {
   
   TEST(HelloTest, printsHello) {
-    EXPECT_EQ(codeToTest(), "Hello JSU");
+    EXPECT_EQ(codeToTest(), "Hello JSU")<< "Incorrect output!";
   }
   
   
