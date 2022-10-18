@@ -1,3 +1,35 @@
-# Program 0: Print Numbers
+# sum-of-two-numbers
 
-Given an input *N* output all numbers from (0,N]
+Write a program that prints `Hello JSU` to the screen
+
+## Program Description:
+Your program is not going to be getting any input. It should only print `Hello JSU` to the screen
+
+
+
+## How to Submit:
+1. Once you are in your private `repository`
+2. Open up the `main.cpp` file
+3. Click on the :pencil2: icon to edit the file and then write your program.
+4. Scroll down to `Commit Changes` and give your commit a title.
+5. Finally, Click `Commit Changes` to submit your code.
+
+```
+Every time you make a commit, your code gets graded based on the test cases. 
+You are allowed to make as many commits as you like.
+```
+
+## Things To include:
+- Make sure to include the following comment above your code.
+```cpp
+// Full Name J00123456 
+/*
+- Your 
+- Code
+- Algorithm
+- here
+*/
+```
+```
+An Algorithm is a set of steps or a process to be followed  to achieve a specific problem.
+```
