@@ -1,4 +1,4 @@
-# Print `Hello JSU`
+# Print to the screen
 
 Write a program that prints `Hello JSU` to the screen
 
