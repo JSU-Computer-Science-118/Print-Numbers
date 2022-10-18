@@ -29,7 +29,8 @@ You are allowed to make as many commits as you like.
 - Algorithm
 - here
 */
+
 ```
-```
-An Algorithm is a set of steps or a process to be followed  to achieve a specific problem.
-```
+- Make sure to include Clearly and effectively documente including descriptions of all variables.
+- Make sure to state Specific purpose noted for each function, control structure, input requirements, 
+and/or output results.
