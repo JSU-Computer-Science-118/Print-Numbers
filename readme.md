@@ -1,4 +1,4 @@
-# sum-of-two-numbers
+# Print `Hello JSU`
 
 Write a program that prints `Hello JSU` to the screen
 
